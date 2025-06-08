@@ -119,7 +119,3 @@ print("Lemmatized words:", lemmatized_words)
 print("Lemmatizing 'better':", lemmatizer.lemmatize("better", pos="a")) # 'a' means adjective
 # Output: good
 ```
-
-
-## Preprocessing Speech
-To be added
